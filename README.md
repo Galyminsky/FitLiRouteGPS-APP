@@ -13,9 +13,10 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Yuriy Galyaminsky. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third-party services that may collect information used to identify you.
 Link to the privacy policy of third-party service providers used by the app
-    • Google Play Services
-    • Google Analytics for Firebase
-    • Firebase Crashlytics
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [WeatherApi](https://www.weatherapi.com/privacy.aspx)
 
 ### Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
@@ -34,6 +35,10 @@ I want to inform users of this Service that these third parties have access to t
 
 ### Security
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+### Background Operations and Data Sharing
+Our app, FitLiRoute GPS, may operate in the background to provide certain features and services, such as tracking your location even when the app is closed or not in use. 
+This data is solely used to enable the functionality of the app and is not shared with any third parties.
 
 ### Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
