@@ -1,92 +1,121 @@
-# FitLiRouteGPS-APP
-Privacy Policy &amp; Terms &amp; Conditions
+# Privacy Policy for FITLiROUTE GPS
 
-## Privacy Policy
-Yuriy Galyaminsky built the FitLiRoute GPS app as a Free app. This SERVICE is provided by Yuriy Galyaminsky at no cost and is intended for use as is.
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+**Last updated: November 10, 2026**
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at FitLiRoute GPS unless otherwise defined in this Privacy Policy.
+## 1. Introduction
 
-### Information Collection and Use
+This Privacy Policy explains how **FITLiROUTE GPS** (the “App”) accesses, uses, stores, and protects user data.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Yuriy Galyaminsky. The information that I request will be retained on your device and is not collected by me in any way.
-The app does use third-party services that may collect information used to identify you.
-Link to the privacy policy of third-party service providers used by the app
+FITLiROUTE GPS is designed to record GPS routes, display movement on a map, calculate distance, duration, and speed, and provide access to saved route history.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [WeatherApi](https://www.weatherapi.com/privacy.aspx)
+For privacy-related inquiries, contact **galyaminsky@gmail.com**.
 
-### Log Data
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## 2. Location Data
 
-### Cookies
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+The App requests access to precise device location to provide its core functionality.
 
-### Service Providers
-I may employ third-party companies and individuals due to the following reasons:
-    • To facilitate our Service;
-    • To provide the Service on our behalf;
-    • To perform Service-related services; or
-    • To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Location data is used to:
 
-### Security
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+- determine the user's current location;
+- record traveled routes;
+- calculate distance and speed;
+- display routes on a map;
+- save route history locally on the device.
 
-### Background Operations and Data Sharing
-Our app, FitLiRoute GPS, may operate in the background to provide certain features and services, such as tracking your location even when the app is closed or not in use. 
-This data is solely used to enable the functionality of the app and is not shared with any third parties.
+Route recording is initiated by the user through the **START** button.
 
-### Links to Other Sites
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+While recording is active, the App may continue accessing location data when minimized or when the device screen is locked. This functionality uses an Android location Foreground Service with a system notification.
 
-### Children’s Privacy
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+Recording ends when stopped by the user or under other conditions defined by the App.
 
+Users may revoke location permissions at any time through Android settings. GPS recording features will not be available without the required permission.
 
-### Changes to This Privacy Policy
+## 3. Local Route Storage
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-This policy is effective as of 2023-06-26
+Recorded GPS routes, including coordinates, route names, and related statistics, are stored locally in the device's internal application storage.
 
-## Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at jobforandroid@proton.me.
+Completed routes are stored using a Room database. Unfinished recordings may be temporarily preserved in local application files.
 
+FITLiROUTE GPS does not provide its own user account system or cloud route synchronization service.
 
-## Terms & Conditions
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Yuriy Galyaminsky.
+The App does not include a developer-operated feature that uploads saved route history to a proprietary server.
 
-Yuriy Galyaminsky is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+Route data is excluded from standard application backups under the current App configuration.
 
-The FitLiRoute GPS app stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the FitLiRoute GPS app won’t work properly or at all.
+## 4. Analytics Data
 
-The app does use third-party services that declare their Terms and Conditions.
-Link to Terms and Conditions of third-party service providers used by the app
+The App uses **Google Firebase Analytics** to obtain statistical information about App usage and operation.
 
-    • Google Play Services
-    • Google Analytics for Firebase
-    • Firebase Crashlytics
-    
-You should be aware that there are certain things that Yuriy Galyaminsky will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Yuriy Galyaminsky cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+Firebase Analytics may automatically process information such as:
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+- application launch and usage events;
+- application instance identifiers;
+- device information, operating system information, and App version;
+- diagnostic and technical information supported by the SDK.
 
-Along the same lines, Yuriy Galyaminsky cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Yuriy Galyaminsky cannot accept responsibility.
+Such data may be transmitted to and processed by Google under its applicable terms and privacy policies.
 
-With respect to Yuriy Galyaminsky’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Yuriy Galyaminsky accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+FITLiROUTE GPS does not implement custom transmission of recorded route history or route coordinates to Firebase Analytics. However, data processing performed by the SDK depends on its version and configuration.
 
-At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Yuriy Galyaminsky does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when
- offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+For more information, see https://policies.google.com/privacy.
 
-### Changes to This Terms and Conditions
+## 5. Map Services
 
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
-These terms and conditions are effective as of 2023-06-26
+The App uses the **osmdroid** library and OpenStreetMap map data to display maps.
 
-## Contact Us
+When map tiles are loaded, network requests are made to the configured map tile provider.
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at jobforandroid@proton.me.
+The provider may receive technical request information, including the device's IP address and information about the requested map area.
 
+Map tile requests do not constitute publishing or cloud storage of recorded route history.
+
+For more information, see https://osmfoundation.org/wiki/Privacy_Policy.
+
+## 6. Third-Party Services
+
+The App uses third-party services for specific functions:
+
+- **Google Firebase Analytics** for application usage analytics;
+- **OpenStreetMap map tile provider** for loading map images.
+
+These providers process information under their own applicable privacy policies and agreements.
+
+The App does not provide a feature to publicly publish or share routes through a developer-operated server.
+
+## 7. Data Security
+
+Local route information is stored in the App's internal storage using Android application isolation mechanisms.
+
+The App relies on standard Android platform security features and HTTPS connections for supported external services.
+
+Nevertheless, no method of storage or electronic transmission can be guaranteed to be completely secure.
+
+## 8. Data Retention and Deletion
+
+Saved routes remain on the device until the user deletes them in the App or removes the App's data.
+
+Users can delete saved routes through the FITLiROUTE GPS interface.
+
+Clearing the App's data through Android settings or uninstalling the App generally removes its local database and files.
+
+Analytics and technical information processed by Google Firebase Analytics and map service providers may be retained according to those providers' own retention policies.
+
+For inquiries about data processing, contact **galyaminsky@gmail.com**.
+
+## 9. Permission Management
+
+Users can manage the App's location permissions through Android settings.
+
+Denying or revoking location permissions limits the features that require location access but does not automatically delete previously saved routes.
+
+## 10. Changes to This Policy
+
+This Privacy Policy may be updated to reflect changes to FITLiROUTE GPS, its technologies, or applicable requirements.
+
+The current version will be available on the publicly accessible Privacy Policy page. The latest update date will be shown at the beginning of this document.
+
+## 11. Contact Information
+
+**Application:** FITLiROUTE GPS
+
+**Privacy contact:** galyaminsky@gmail.com
